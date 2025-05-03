@@ -16,7 +16,7 @@ const MinnieBirthdayInvite = () => {
 
     // Calculate time remaining until the event
     const calculateTimeLeft = () => {
-        const eventDate = new Date("April 26, 2025 17:00:00").getTime();
+        const eventDate = new Date("May 15, 2025 17:00:00").getTime();
         const now = new Date().getTime();
         const difference = eventDate - now;
 
@@ -1172,7 +1172,7 @@ const MinnieBirthdayInvite = () => {
                                     />
                                 </svg>
                                 <p className="text-xl font-semibold">
-                                    +27 (83) 528-1746
+                                    +27 (12) 345-6789
                                 </p>
                             </motion.div>
 
