@@ -1190,8 +1190,7 @@ const MinnieBirthdayInvite = () => {
                                     whileTap={{ scale: 0.95 }}
                                     onClick={() =>
                                         window.open(
-                                            "tel:+27835281746",
-                                            "_blank"
+                                            "tel:+27123456789"
                                         )
                                     }
                                     className="flex items-center justify-center px-6 py-3 bg-pink-500 hover:bg-pink-600 text-white font-bold rounded-full transition-all duration-300 shadow-lg"
@@ -1226,8 +1225,7 @@ const MinnieBirthdayInvite = () => {
                                     whileTap={{ scale: 0.95 }}
                                     onClick={() =>
                                         window.open(
-                                            "https://wa.me/27835281746?text=Hi%20Minnie!%20I%20would%20love%20to%20attend%20your%20Sunset%20Soir%C3%A9e%20celebration!",
-                                            "_blank"
+                                            "#"
                                         )
                                     }
                                     className="flex items-center justify-center px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-bold rounded-full transition-all duration-300 shadow-lg"
