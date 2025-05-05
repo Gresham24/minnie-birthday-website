@@ -616,7 +616,7 @@ const MinnieBirthdayInvite = () => {
                                     <span className="font-semibold text-pink-300">
                                         WhatsApp/Call:
                                     </span>{" "}
-                                    +27 (83) 528-1746
+                                    +27 (12) 345-6789
                                 </p>
                             </div>
                         </motion.div>
@@ -1369,7 +1369,7 @@ const MinnieBirthdayInvite = () => {
                         />
                     </div>
                     <p className="text-gray-400">
-                        © 2025 | Website by Gresham Tembo
+                        © 2025 | Website by <a target="_blank" rel="noopener noreferrer" href="https://gresham24.com/" className="text-pink-500 hover:text-pink-400 transition-colors duration-300 underline decoration-pink-500/30 hover:decoration-pink-400/50">Gresham Tembo</a>
                     </p>
                 </div>
             </footer>
