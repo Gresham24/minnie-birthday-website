@@ -16,7 +16,7 @@ const MinnieBirthdayInvite = () => {
 
     // Calculate time remaining until the event
     const calculateTimeLeft = () => {
-        const eventDate = new Date("May 15, 2025 17:00:00").getTime();
+        const eventDate = new Date("May 15, 2026 17:00:00").getTime();
         const now = new Date().getTime();
         const difference = eventDate - now;
 
